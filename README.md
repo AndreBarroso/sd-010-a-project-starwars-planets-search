@@ -1,7 +1,7 @@
 
 # Boas vindas ao repositório do projeto Starwars Planets Search!
 
-Este projeto teve como objetivo, desenvolver uma página para renderizar uma lista com os planetas do universo de Star Wars com diversas informações a respeito deles usando diversas possibilidades filtros a partir dessas informações. Para buscar a listagem desses planetas foi usada uma API no quaal continua as informações nescessárias a respeito dos planetas. Além disso foi usado aqui a componentização de elementos e Context API e Hooks para controlar os estados globais.
+Este projeto teve como objetivo, desenvolver uma página para renderizar uma lista com os planetas do universo de Star Wars com diversas informações a respeito deles usando diversas possibilidades filtros a partir dessas informações. Para buscar a listagem desses planetas foi usada uma API no qual continha as informações nescessárias a respeito dos planetas. Além disso foi usado aqui a componentização de elementos,  Context API e Hooks para controlar os estados globais.
 
 ---
 
